@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Portfolio Hugo Perard</title>
+    <link>http://localhost:1313/tags/c%23/</link>
+    <description>Recent content in C# on Portfolio Hugo Perard</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 07 Nov 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIO 1 AP 3 CSharp#</title>
+      <link>http://localhost:1313/projets/csharp/</link>
+      <pubDate>Thu, 07 Nov 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/projets/csharp/</guid>
+      <description>&lt;p&gt;Creation d&amp;rsquo;un formulaire de connexion avec Visual Studio Code comportant un login et un mot de passe&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
